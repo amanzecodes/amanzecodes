@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amanzw</h1>
+<h1 align="center">Hi 👋, I'm Amanze</h1>
 <h3 align="center">A passionate MERN stack developer from Nigeria</h3>
 <img align="right" alt="SpiderMan" width="400" src="https://wallpapers-clan.com/wp-content/uploads/2024/08/marvel-miles-morales-dark-gif-desktop-wallpaper-preview.gif">
 
