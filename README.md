@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Amanze</h1>
-<h3 align="center">A passionate MERN stack developer based in Nigeria</h3>
+<!-- <h1 align="center">Hi 👋, I'm Amanze</h1> -->
+<!--<h3 align="center">A passionate MERN stack developer based in Nigeria</h3>-->
 <img alt="SpiderMan" width="100%" src="https://wallpapers-clan.com/wp-content/uploads/2024/08/marvel-miles-morales-dark-gif-desktop-wallpaper-preview.gif">
 
 <p align = "left"> <img src="https://komarev.com/ghpvc/?username=brunoamanzechinaeneyze&label=Profile%20views&color=0e75b6&style=flat" alt="brunoamanzechinaeneyze" /> </p>
