@@ -1,11 +1,6 @@
 
 ###
-<img src="https://i.giphy.com/RCEeEPtVotdJi8d0x8.webp" style="width:100%; height:100%;" alt="Spider-Man GIF" />
-<hr>
-
-###
-
-<h1 align="center">Hi 👋, I'm Amanze<br>A MERN STACK DEVELOPER based in Nigeria</h1>
+<h3 align="center">Hi 👋, I'm Amanze<br>A MERN STACK DEVELOPER based in Nigeria</h3>
 <hr>
 
 ###
