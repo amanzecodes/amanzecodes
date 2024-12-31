@@ -7,6 +7,11 @@
 </div>
 
 ###
+- ❓ Ask me about anything related to Web Development.  
+
+- ⚡ Fun fact: I am attractive.
+
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/bruno-amanze-a09b6a320/" target="_blank">
