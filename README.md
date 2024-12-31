@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Amanze<br>A MERN STACK DEVELOPER</h1>
 
 ###
 <img src="https://i.giphy.com/RCEeEPtVotdJi8d0x8.webp" style="width:100%; height:100%;" alt="Spider-Man GIF" />
+<hr>
+
+###
+
+<h1 align="center">Hi 👋, I'm Amanze<br>A MERN STACK DEVELOPER based in Nigeria</h1>
+<hr>
 
 ###
 
@@ -16,7 +21,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
