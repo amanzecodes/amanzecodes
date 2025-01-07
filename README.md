@@ -42,10 +42,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amanzecodes&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amanzecodes&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amanzecodes&theme=dark&hide_border=true&border_radius=15&background=000807)](https://git.io/streak-stats)
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Incognitol07&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
