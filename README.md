@@ -1,6 +1,6 @@
 
 ###
-<h3 align="center">Hi 👋, I'm Amanze<br>A MERN STACK DEVELOPER based in Nigeria</h3>
+<h3 align="center">Hi 👋, I'm Amanze<br>A PERN STACK DEVELOPER based in Nigeria</h3>
 <hr>
 
 ###
