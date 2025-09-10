@@ -1,6 +1,6 @@
 
 ###
-<h3 align="center">Hi 👋, I'm Amanze<br>A PERN STACK DEVELOPER based in Nigeria</h3>
+<h3 align="center">Hi 👋, I'm Amanze<br>A Software Engineer based in Nigeria</h3>
 <hr>
 
 <div align="center">
@@ -26,5 +26,3 @@
 
 # GitHub Stats :
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amanzecodes&theme=dark&hide_border=true)<br/> <br /> <hr />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amanzecodes&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
