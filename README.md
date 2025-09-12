@@ -1,4 +1,5 @@
-![My GIF](gif.gif)
+<img src="gif.gif" alt="My GIF" width="100%" height="400">
+
 
 <h1 align="center">Hi 👋, I'm Amanze</h1>
 <h3 align="center">A Software Engineer Based in Lagos, Nigeria</h3>
