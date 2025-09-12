@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **brunoamanze67@gmail.com**
 
-- ⚡ Fun fact **I am 17 years old**
+- ⚡ Fun fact **I am 17 years old currently studying Computer Science at Covenant University**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,6 +28,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanzecodes&show_icons=true&locale=en&layout=compact" alt="amanzecodes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanzecodes&show_icons=true&locale=en" alt="amanzecodes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanzecodes&" alt="amanzecodes" /></p>
