@@ -6,11 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/amanzebruno" target="blank"><img src="https://img.shields.io/twitter/follow/amanzebruno?logo=twitter&style=for-the-badge" alt="amanzebruno" /></a> </p>
 
-- 🔭 I’m currently working on a **MultiTenant School Management System**
+<!--- 🔭 I’m currently working on a **MultiTenant School Management System**-->
 
 - 🌱 I’m currently learning **System Design**
-
-- 👨‍💻 All of my projects are available at [amanze-jnr.me](amanze-jnr.me)
 
 - 💬 Ask me about **Node Js, Typescript and Next.JS**
 
