@@ -8,7 +8,7 @@
 
 <!--- 🔭 I’m currently working on a **MultiTenant School Management System**-->
 
-- 🌱 I’m currently learning **System Design**
+- 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **SpringBoot, Node Js, Typescript and Next.JS**
 
