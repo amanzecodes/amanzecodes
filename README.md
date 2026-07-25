@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **System Design**
 
-- 💬 Ask me about **Node Js, Typescript and Next.JS**
+- 💬 Ask me about **SpringBoot, Node Js, Typescript and Next.JS**
 
 - 📫 How to reach me **brunoamanze67@gmail.com**
 
