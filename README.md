@@ -43,6 +43,6 @@
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=amanzecodes&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p>
+<span>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanzecodes&" alt="amanzecodes" />
-</p>
+</span>
